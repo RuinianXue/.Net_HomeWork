@@ -1,0 +1,11 @@
+D:\2023-2024 NET Class\HW1\QuestionAndScore\bin\Debug\QuestionAndScore.exe.config
+D:\2023-2024 NET Class\HW1\QuestionAndScore\bin\Debug\QuestionAndScore.exe
+D:\2023-2024 NET Class\HW1\QuestionAndScore\bin\Debug\QuestionAndScore.pdb
+D:\2023-2024 NET Class\HW1\QuestionAndScore\obj\Debug\QuestionAndScore.csproj.AssemblyReference.cache
+D:\2023-2024 NET Class\HW1\QuestionAndScore\obj\Debug\QuestionAndScore.csproj.SuggestedBindingRedirects.cache
+D:\2023-2024 NET Class\HW1\QuestionAndScore\obj\Debug\QuestionAndScore.Form1.resources
+D:\2023-2024 NET Class\HW1\QuestionAndScore\obj\Debug\QuestionAndScore.Properties.Resources.resources
+D:\2023-2024 NET Class\HW1\QuestionAndScore\obj\Debug\QuestionAndScore.csproj.GenerateResource.cache
+D:\2023-2024 NET Class\HW1\QuestionAndScore\obj\Debug\QuestionAndScore.csproj.CoreCompileInputs.cache
+D:\2023-2024 NET Class\HW1\QuestionAndScore\obj\Debug\QuestionAndScore.exe
+D:\2023-2024 NET Class\HW1\QuestionAndScore\obj\Debug\QuestionAndScore.pdb

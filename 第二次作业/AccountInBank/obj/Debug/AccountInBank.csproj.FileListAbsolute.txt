@@ -1,0 +1,11 @@
+D:\2023-2024 NET Class\HW1\AccountInBank\bin\Debug\AccountInBank.exe.config
+D:\2023-2024 NET Class\HW1\AccountInBank\bin\Debug\AccountInBank.exe
+D:\2023-2024 NET Class\HW1\AccountInBank\bin\Debug\AccountInBank.pdb
+D:\2023-2024 NET Class\HW1\AccountInBank\obj\Debug\AccountInBank.csproj.AssemblyReference.cache
+D:\2023-2024 NET Class\HW1\AccountInBank\obj\Debug\AccountInBank.csproj.SuggestedBindingRedirects.cache
+D:\2023-2024 NET Class\HW1\AccountInBank\obj\Debug\AccountInBank.Form1.resources
+D:\2023-2024 NET Class\HW1\AccountInBank\obj\Debug\AccountInBank.Properties.Resources.resources
+D:\2023-2024 NET Class\HW1\AccountInBank\obj\Debug\AccountInBank.csproj.GenerateResource.cache
+D:\2023-2024 NET Class\HW1\AccountInBank\obj\Debug\AccountInBank.csproj.CoreCompileInputs.cache
+D:\2023-2024 NET Class\HW1\AccountInBank\obj\Debug\AccountInBank.exe
+D:\2023-2024 NET Class\HW1\AccountInBank\obj\Debug\AccountInBank.pdb

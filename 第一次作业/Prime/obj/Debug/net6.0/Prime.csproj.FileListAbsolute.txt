@@ -1,0 +1,15 @@
+D:\2023-2024 NET Class\HW1\Prime\bin\Debug\net6.0\Prime.exe
+D:\2023-2024 NET Class\HW1\Prime\bin\Debug\net6.0\Prime.deps.json
+D:\2023-2024 NET Class\HW1\Prime\bin\Debug\net6.0\Prime.runtimeconfig.json
+D:\2023-2024 NET Class\HW1\Prime\bin\Debug\net6.0\Prime.dll
+D:\2023-2024 NET Class\HW1\Prime\bin\Debug\net6.0\Prime.pdb
+D:\2023-2024 NET Class\HW1\Prime\obj\Debug\net6.0\Prime.csproj.AssemblyReference.cache
+D:\2023-2024 NET Class\HW1\Prime\obj\Debug\net6.0\Prime.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023-2024 NET Class\HW1\Prime\obj\Debug\net6.0\Prime.AssemblyInfoInputs.cache
+D:\2023-2024 NET Class\HW1\Prime\obj\Debug\net6.0\Prime.AssemblyInfo.cs
+D:\2023-2024 NET Class\HW1\Prime\obj\Debug\net6.0\Prime.csproj.CoreCompileInputs.cache
+D:\2023-2024 NET Class\HW1\Prime\obj\Debug\net6.0\Prime.dll
+D:\2023-2024 NET Class\HW1\Prime\obj\Debug\net6.0\refint\Prime.dll
+D:\2023-2024 NET Class\HW1\Prime\obj\Debug\net6.0\Prime.pdb
+D:\2023-2024 NET Class\HW1\Prime\obj\Debug\net6.0\Prime.genruntimeconfig.cache
+D:\2023-2024 NET Class\HW1\Prime\obj\Debug\net6.0\ref\Prime.dll
