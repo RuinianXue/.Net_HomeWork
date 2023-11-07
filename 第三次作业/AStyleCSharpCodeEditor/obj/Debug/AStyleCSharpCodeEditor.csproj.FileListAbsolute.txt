@@ -1,0 +1,11 @@
+D:\2023-2024 NET Class\第三次作业\AStyleCSharpCodeEditor\bin\Debug\AStyleCSharpCodeEditor.exe.config
+D:\2023-2024 NET Class\第三次作业\AStyleCSharpCodeEditor\bin\Debug\AStyleCSharpCodeEditor.exe
+D:\2023-2024 NET Class\第三次作业\AStyleCSharpCodeEditor\bin\Debug\AStyleCSharpCodeEditor.pdb
+D:\2023-2024 NET Class\第三次作业\AStyleCSharpCodeEditor\obj\Debug\AStyleCSharpCodeEditor.csproj.AssemblyReference.cache
+D:\2023-2024 NET Class\第三次作业\AStyleCSharpCodeEditor\obj\Debug\AStyleCSharpCodeEditor.csproj.SuggestedBindingRedirects.cache
+D:\2023-2024 NET Class\第三次作业\AStyleCSharpCodeEditor\obj\Debug\AStyleCSharpCodeEditor.Form1.resources
+D:\2023-2024 NET Class\第三次作业\AStyleCSharpCodeEditor\obj\Debug\AStyleCSharpCodeEditor.Properties.Resources.resources
+D:\2023-2024 NET Class\第三次作业\AStyleCSharpCodeEditor\obj\Debug\AStyleCSharpCodeEditor.csproj.GenerateResource.cache
+D:\2023-2024 NET Class\第三次作业\AStyleCSharpCodeEditor\obj\Debug\AStyleCSharpCodeEditor.csproj.CoreCompileInputs.cache
+D:\2023-2024 NET Class\第三次作业\AStyleCSharpCodeEditor\obj\Debug\AStyleCSharpCodeEditor.exe
+D:\2023-2024 NET Class\第三次作业\AStyleCSharpCodeEditor\obj\Debug\AStyleCSharpCodeEditor.pdb
