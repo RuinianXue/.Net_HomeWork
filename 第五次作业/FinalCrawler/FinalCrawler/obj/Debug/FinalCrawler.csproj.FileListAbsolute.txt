@@ -1,0 +1,11 @@
+D:\Github\SoftwareConstructionHomework\HW7&HW10\FinalCrawler\FinalCrawler\FinalCrawler\bin\Debug\FinalCrawler.exe.config
+D:\Github\SoftwareConstructionHomework\HW7&HW10\FinalCrawler\FinalCrawler\FinalCrawler\bin\Debug\FinalCrawler.exe
+D:\Github\SoftwareConstructionHomework\HW7&HW10\FinalCrawler\FinalCrawler\FinalCrawler\bin\Debug\FinalCrawler.pdb
+D:\Github\SoftwareConstructionHomework\HW7&HW10\FinalCrawler\FinalCrawler\FinalCrawler\obj\Debug\FinalCrawler.csproj.AssemblyReference.cache
+D:\Github\SoftwareConstructionHomework\HW7&HW10\FinalCrawler\FinalCrawler\FinalCrawler\obj\Debug\FinalCrawler.csproj.SuggestedBindingRedirects.cache
+D:\Github\SoftwareConstructionHomework\HW7&HW10\FinalCrawler\FinalCrawler\FinalCrawler\obj\Debug\FinalCrawler.Form1.resources
+D:\Github\SoftwareConstructionHomework\HW7&HW10\FinalCrawler\FinalCrawler\FinalCrawler\obj\Debug\FinalCrawler.Properties.Resources.resources
+D:\Github\SoftwareConstructionHomework\HW7&HW10\FinalCrawler\FinalCrawler\FinalCrawler\obj\Debug\FinalCrawler.csproj.GenerateResource.cache
+D:\Github\SoftwareConstructionHomework\HW7&HW10\FinalCrawler\FinalCrawler\FinalCrawler\obj\Debug\FinalCrawler.csproj.CoreCompileInputs.cache
+D:\Github\SoftwareConstructionHomework\HW7&HW10\FinalCrawler\FinalCrawler\FinalCrawler\obj\Debug\FinalCrawler.exe
+D:\Github\SoftwareConstructionHomework\HW7&HW10\FinalCrawler\FinalCrawler\FinalCrawler\obj\Debug\FinalCrawler.pdb
